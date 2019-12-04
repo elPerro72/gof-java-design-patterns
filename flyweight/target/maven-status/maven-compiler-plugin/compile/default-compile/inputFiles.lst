@@ -1,0 +1,10 @@
+/workspace/gof-java-design-patterns/flyweight/src/main/java/com/ramesh/gof/flyweight/Potion.java
+/workspace/gof-java-design-patterns/flyweight/src/main/java/com/ramesh/gof/flyweight/PoisonPotion.java
+/workspace/gof-java-design-patterns/flyweight/src/main/java/com/ramesh/gof/flyweight/HealingPotion.java
+/workspace/gof-java-design-patterns/flyweight/src/main/java/com/ramesh/gof/flyweight/StrengthPotion.java
+/workspace/gof-java-design-patterns/flyweight/src/main/java/com/ramesh/gof/flyweight/AlchemistShop.java
+/workspace/gof-java-design-patterns/flyweight/src/main/java/com/ramesh/gof/flyweight/InvisibilityPotion.java
+/workspace/gof-java-design-patterns/flyweight/src/main/java/com/ramesh/gof/flyweight/PotionType.java
+/workspace/gof-java-design-patterns/flyweight/src/main/java/com/ramesh/gof/flyweight/HolyWaterPotion.java
+/workspace/gof-java-design-patterns/flyweight/src/main/java/com/ramesh/gof/flyweight/PotionFactory.java
+/workspace/gof-java-design-patterns/flyweight/src/main/java/com/ramesh/gof/flyweight/App.java

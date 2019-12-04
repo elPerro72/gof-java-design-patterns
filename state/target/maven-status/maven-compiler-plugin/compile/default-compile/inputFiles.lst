@@ -1,0 +1,10 @@
+/workspace/gof-java-design-patterns/state/src/main/java/com/ramesh/gof/state/firstexample/Context.java
+/workspace/gof-java-design-patterns/state/src/main/java/com/ramesh/gof/state/secondexample/TVContext.java
+/workspace/gof-java-design-patterns/state/src/main/java/com/ramesh/gof/state/secondexample/TVStartState.java
+/workspace/gof-java-design-patterns/state/src/main/java/com/ramesh/gof/state/secondexample/TVStopState.java
+/workspace/gof-java-design-patterns/state/src/main/java/com/ramesh/gof/state/firstexample/StatePatternDemo.java
+/workspace/gof-java-design-patterns/state/src/main/java/com/ramesh/gof/state/secondexample/TVRemote.java
+/workspace/gof-java-design-patterns/state/src/main/java/com/ramesh/gof/state/secondexample/State.java
+/workspace/gof-java-design-patterns/state/src/main/java/com/ramesh/gof/state/firstexample/State.java
+/workspace/gof-java-design-patterns/state/src/main/java/com/ramesh/gof/state/firstexample/StartState.java
+/workspace/gof-java-design-patterns/state/src/main/java/com/ramesh/gof/state/firstexample/StopState.java
